@@ -1,4 +1,4 @@
-import 'package:aa_travel_planner/app/main_screen.dart';
+import 'package:aa_travel_planner/src/app/main_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
